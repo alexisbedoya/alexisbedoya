@@ -1,9 +1,9 @@
-### Hi i'm Cristian Pascumal, i'm a Computer Science student at Universidad del Valle in Cali, Colombia.
+### Hi i'm Alexis Bedoya, i'm a Systems Engineer student at Universidad de Cartagena, Colombia.
 
-I have knowledge at Postgresql, Javascript, nodeJS and a bit of C++, Python and Java. I'm interested on backend developing and other areas like Algorithms analysis and designing, Functional programming, Constraint Programming and Neural Networks 
+I have knowledge at Postgresql, Javascript, nodeJS and a bit of C++, Python and Java. I'm interested onfull stack developer and other areas like designing, Functional programming, and Neural Networks 
 
 <!--
-**Pascu999/Pascu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alexisbedoya/Alexisbedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pascu999&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascu999)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexisbedoya&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbedoya)](https://github.com/anuraghazra/github-readme-stats)
