@@ -1,6 +1,6 @@
 ### Hi i'm Alexis Bedoya, i'm a Systems Engineer student at Universidad de Cartagena, Colombia.
 
-I have knowledge at Postgresql, Javascript, nodeJS and a bit of C++, Python and Java. I'm interested onfull stack developer and other areas like designing, Functional programming, and Neural Networks 
+I have knowledge at Sql, Php, Java, Javascript, nodeJS and a bit Python. I'm interested onfull stack developer and other areas like designing, Functional programming, and Neural Networks 
 
 <!--
 **Alexisbedoya/Alexisbedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
